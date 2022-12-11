@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShoeUp</title>
+    <link href="C:\Users\yiyud\OneDrive\Documents\Neo\HTML\Shark Tank CSS.css" rel="stylesheet">
+   
+
+</head>
+<body>
+    <h1>ShoeUp</h1>
+    <h3>The Shoes That Make You Up</h3>
+
+    <fieldset>
+        <legend><strong>Our goal</strong></legend>
+    <h2>Our Goal</h2>
+    <p1>Are you short? Our goal is to fix that. 
+    </p1>
+    </fieldset>
+    <p class="Product"></p>
+    <fieldset>
+        <legend><strong>Meet the Product</strong></legend>
+    <div>
+    <h2>The Product</h2>
+    <p1>Our product, ShoeUp, is a shoe attatchment made to increase your height </p1>
+    <br>
+    <p1>through the use of pneumatic cylinders, which can hold up to 500kg, </p1>
+    <br>
+    <p1>meaning it can support you and your grandma.</p1>
+    </fieldset>
+        
+    </div>
+    <p class="Production"></p>
+    <div>
+        <fieldset><legend><strong>Cry About Production</strong></legend>
+    <h2>Production</h2>
+    <p1>Because it's hard to make shoe attatchments that make you tall, we're </p1>
+    <br>
+    <p1>going to make that easier, for both you, and us. Mainly us though. </p1>
+    <br>
+    <p1>We're planning on outsourcing material production and procurement to </p1>
+    <br>
+    <p1>countries with massive, cheap labor pools, such as China. From there, </p1>
+    <br>
+    <p1>we can lower the prices of our product because people don't care where </p1>
+    <p1>or how a product is made, so long as it's cheap. </p1>
+        </fieldset>
+    </div>
+    <p class="Style"></p>
+    <div>
+        <fieldset><legend><strong>I Don't Know. Just Buy Whatever The Pumpkin Spice Latte Frick You Want Shoes And Attatch ShoeUps</strong></legend>
+    <h2>Style</h2>
+    <p1>Last but not least, is a common point of concern for a lot of people who </p1>
+    <br>
+    <p1>are too picky for their own good; style. After a few surveys and interviews </p1>
+    <br>
+    <p1>have returned negative feedback in terms of how stylish and good the ShoeUps will </p1>
+    <br>
+    <p1>look, we have decided that our attatchments will be better looking than whatever </p1>
+    <br>
+    <p1>the idiots at the Nike and Adidas marketing teams can come up with. Many people </p1>
+    <br>
+    <p1>believe that it is impossible for pneumatic cylinders to look good at the bottom </p1>
+    <br>
+    <p1>of shoes. However, we can assure you, that whatever it will end up looking like, </p1>
+    <br>
+    <p1>it'll still be better than whatever Joe Biden has goin on. </p1>
+        </fieldset>
+    </div>
+    <div>
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Soon may the Fetterman Come</a>
+    </div>
+    <figure><img src="C:\Users\yiyud\OneDrive\Pictures\Saved Pictures\joe's jank shoes" alt="joe's jank shoes"><figcaption><details><summary>joooooooooe biden</summary></details></figcaption></figure>
+</body>
+</html>
